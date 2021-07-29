@@ -29,3 +29,15 @@
 
 - Spring
 - ubuntu, aws 💎 frot-end
+- React
+- JavaScript
+- JSX
+- CSS
+- Styled Component
+- aws, s3
+
+### **✨After Projects**
+
+- 로그인/회원가입
+- 내가 찜한 컨텐츠(컨텐츠 찜하기)
+- 컨텐츠 좋아요, 싫어요
